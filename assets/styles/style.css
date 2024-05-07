@@ -1,0 +1,82 @@
+body{
+    overflow-x: hidden;
+}
+.section4{
+    background-color: #304b50;
+}
+.section4 h1, p{
+    color: rgb(255, 255, 255);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+h1{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.progress{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.section3{
+    display: grid;
+    justify-content: center;
+}
+.section4{
+    display: grid;
+    justify-content: center;
+}
+.section7 .container{
+    display: grid;
+}
+.container{
+    width: 1200px;
+}
+.col p{
+    color: black;
+}
+.col img{
+    height: 400px;
+    object-fit: cover;
+}
+.section3 .col img{
+    height: 300px;
+    object-fit: cover;
+}
+section{
+    margin-bottom: 20px;
+}
+.section7 p{
+    color: black;
+    margin: 0;
+}
+.section7 button{
+    margin-top: 10px;
+}
+.section5 img{
+    height: 200px;
+}
+.section5 h1{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.section5 .col{
+    display: grid;
+    justify-content: center;
+}
+.section5 button{
+    margin-bottom: 20px;
+}
+.section6 .col-md-4{
+    background-color: #081B25;
+    font-size: 3.5rem;
+    
+}
+.section6 .col-md-4 p{
+    color: white;
+    text-align: center;
+}
+.card-body img{
+    height: 20px;
+    margin-right: 10px;
+}
